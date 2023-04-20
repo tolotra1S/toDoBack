@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use App\Models\Image;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Str;
- 
+ // ImageController
 class ImageController extends Controller
 {
     public function index() {
